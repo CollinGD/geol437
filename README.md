@@ -4,7 +4,7 @@
 
 <b>Location</b>: McGlothlin-Street Hall 219
 
-<b>Meeting times</b>: Mondays 5:00-6:50pm 
+<b>Meeting times</b>: X X:XX-X:XXpm 
 
 <b>Office Hours</b>: Mondays 4-5pm or [by appointment](https://outlook-sdf.office.com/bookwithme/user/c70b4576f7544299af54ec9b68670b62@wm.edu/meetingtype/f4v96J1x9E-Jp4VOFoVCwQ2?bookingcode=48efa718-3b3f-481a-ba01-343b80a738c7&anonymous&ep=mlink)
 
