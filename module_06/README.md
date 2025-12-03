@@ -1,5 +1,5 @@
 # Week 6 instructions
-
+<i>Requires update for Spring 2026</i>
 ## Run `git pull` to update the class repo with the latest assignments
 1. On the JupyterHub, navigate to the Terminal and use `cd geol437-fa24` to enter that directory
 2. Run `git pull` to <i>pull</i> updates from the remote repo to your local repo 

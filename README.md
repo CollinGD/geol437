@@ -2,11 +2,11 @@
 
 <b>Instructor</b>: Dr. Joanmarie Del Vecchio
 
-<b>Location</b>: McGlothlin-Street Hall 219
+<b>Location</b>: McGlothlin-Street Hall TC
 
-<b>Meeting times</b>: X X:XX-X:XXpm 
+<b>Meeting times</b>: M 5:00-6:50 pm 
 
-<b>Office Hours</b>: Mondays 4-5pm or [by appointment](https://outlook-sdf.office.com/bookwithme/user/c70b4576f7544299af54ec9b68670b62@wm.edu/meetingtype/f4v96J1x9E-Jp4VOFoVCwQ2?bookingcode=48efa718-3b3f-481a-ba01-343b80a738c7&anonymous&ep=mlink)
+<b>Office Hours</b>: XX or [by appointment](https://outlook.office.com/bookwithme/user/c70b4576f7544299af54ec9b68670b62@wm.edu/meetingtype/bqYvCamHo0Od-9ofcY03GQ2?bookingcode=8d5233d7-9203-4407-a33d-dd79b7f7661a&anonymous&ep=mLinkFromTile)
 
 # Class format
 
@@ -27,14 +27,13 @@ The primary goal for students for this course is to learn to <b>think algorithmi
 # Grading
 
 Let's begin by saying that this class is intended to help you build useful and transferrable skills for research and industry - therefore <b>you will get out of this class what you put into it!</b> It's also a 400 level class, so you are expected to know how to manage your time and deadlines (but be in touch if you'd like to talk strategies). Therefore grading will be relatively simple:
-* 60% of your grade will come from completing weekly tutorial material. These will be graded on a scale of (2) satisfactory, (1) unsatisfactory, and (0) missing. You will depart class Monday evening with a head start from your in-class work and instructions on what is "satisfactory," and you will have until 5pm the next Monday to turn in the assignment. Because you will work on the assignment in class, <b>late assignments will not be accepted</b>, but I will <b>drop your two lowest assignment grades</b> this semester.
-* 40% of your grade will come from a capstone project in which you generate publication-worthy analyses and figures for a dataset or system close to your heart 
+* 50% of your grade will come from completing weekly tutorial material. These will be graded on a scale of (2) satisfactory, (1) unsatisfactory, and (0) missing. You will depart class Monday evening with a head start from your in-class work and instructions on what is "satisfactory," and you will have until 5pm the next Monday to turn in the assignment. Because you will work on the assignment in class, <b>late assignments will not be accepted</b>, but I will <b>drop your two lowest assignment grades</b> this semester.
+* 50% of your grade will come from a capstone project in which you generate publication-worthy analyses and figures for a dataset or system close to your heart 
 
 # Class schedule
-10/14/2024 - see changes below!
 
 This schedule is <b>highly</b> subject to change based on class interest - I picked these topics, but if I sense we need more time on something or want to go in a totally different direction, we might! 
-
+<!-- 
 | Date   |      Topic      |  Pre-assignment |
 |:----------:|:-------------:|:------:|
 | 9/02/2024 |  No class - Labor Day|[Account registration](https://github.com/jmdelvecchio/geol437-fa24/tree/main/0902)|
@@ -50,9 +49,28 @@ This schedule is <b>highly</b> subject to change based on class interest - I pic
 | 11/11/2024 |HPC intro and project work time|[Week 10 activities](https://github.com/jmdelvecchio/geol437-fa24/tree/main/1111)|
 | 11/18/2024*|Project work time||
 | 11/25/2024 |Image segmentation / classification||
-| 12/02/2024 |Project lightning talks||
+| 12/02/2024 |Project lightning talks|| -->
 
-(*)Denotes dates where Joanmarie will be out of town - you are encouraged to gather as a class and work through assignments
+| Date   |      Topic      |  Pre-assignment |
+|:----------:|:-------------:|:------:|
+1/19/2026 |	No meeting (but do assignment before the 26th!)	 | Account registration (HPC, GitHub)
+1/26/2026 |Python, environments		 |Module 00
+2/2/2026 |`numpy` and `matplotlib`		 |Modules 01 and 02
+2/9/2026 |`pandas` and plotting		 |Modules 03 and 04
+2/16/2026 |Mini-capstone		 |Mini-capstone work
+2/23/2026 |Iterating		 |Module 05
+3/2/2026 |Photogrammetry I		 | Reading
+3/9/2026 |No meeting (Spring Break) |Collect images/scans
+3/16/2026 |Photogrammetry II		 | Reading
+3/23/2026 |Geospatial data - vector and raster data		 |Module 06
+3/30/2026 |Statistics and plotting - `scikit-learn` and `seaborn`		 |Module 07
+4/6/2026 |Numerical solutions - forward model		 |Module 08
+4/13/2026 |Photogrammetry III / Machine learning		 | TBA
+4/20/2026 |Flex / Machine learning		 |TBA
+4/27/2026 |Capstone presentations		 |TBA
+
+
+<!-- (*)Denotes dates where Joanmarie will be out of town - you are encouraged to gather as a class and work through assignments -->
 
 Each week will have a corresponding folder in the GitHub repo - this will be where your assignments and instructions will live (each week will have its own `README.md`)
 

@@ -1,5 +1,7 @@
 # Week 2 instructions
 
+<i>Requires update for Spring 2026</i>
+
 ## Get the class repo into JupyterHub
 *(Time: approx 15 minutes)*
 - [ ]  log in to W&M’s JupyterHub [https://jupyterhub.wm.edu/](https://jupyterhub.wm.edu/). Click “Start My Server”, and choose Default Notebook.
