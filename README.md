@@ -10,7 +10,7 @@
 
 # Class format
 
-To take advantage of hands-on coding with peers and a mentor, this class will be run largely as a <i>flipped classroom</i>. Instructional material will be made available ahead of time in the form of tutorial Jupyter Notebooks and/or recorded lectures with screen captures. You will be expected to come to class having completed any pre-meeting assignments, which will review or teach new skills to be implemented or improved upon during the class meeting. 
+To take advantage of hands-on coding with peers and a mentor, this class will be run largely as a <i>flipped classroom</i>. Instructional material will be made available ahead of time in the form of tutorial Jupyter Notebooks. <b>You will be expected to come to class having completed any pre-meeting assignments as described in each module's `README.md`</b>, which will review or teach new skills to be implemented or improved upon during the class meeting. 
 At William and Mary, each credit hour of face-to-face instruction [requires a student work two hours out of class student work](https://www.wm.edu/offices/ce/policies/academic-affairs-student-life/academic-credit-hour.php). This means that for this two credit-hour class, you should be spending <b>four hours</b> a week on pre-meeting activities and wrapping up in-class assignments. 
 
 # Learning objectives
